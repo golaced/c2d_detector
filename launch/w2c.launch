@@ -1,0 +1,5 @@
+<launch>
+   
+      <node name="w2c" pkg="w2c_detector" type="w2c" output="screen">
+      </node>
+</launch>
